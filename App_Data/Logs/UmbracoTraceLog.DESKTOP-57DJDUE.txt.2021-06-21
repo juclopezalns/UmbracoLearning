@@ -1,0 +1,365 @@
+﻿ 2021-06-21 14:12:28,271 [P8532/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on DESKTOP-57DJDUE
+ 2021-06-21 14:12:28,299 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2021-06-21 14:12:28,316 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 17ms)
+ 2021-06-21 14:12:28,377 [P8532/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2021-06-21 14:12:28,379 [P8532/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2021-06-21 14:12:28,384 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 14:12:28,610 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 225ms)
+ 2021-06-21 14:12:28,610 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2021-06-21 14:12:28,617 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 6ms)
+ 2021-06-21 14:12:28,636 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 14:12:28,637 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 14:12:28,637 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2021-06-21 14:12:28,639 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 1ms)
+ 2021-06-21 14:12:28,639 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 14:12:28,639 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 14:12:28,639 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2021-06-21 14:12:28,645 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 5ms)
+ 2021-06-21 14:12:28,656 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 14:12:28,656 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 14:12:28,656 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2021-06-21 14:12:28,658 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 1ms)
+ 2021-06-21 14:12:28,658 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 14:12:28,658 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 14:12:28,658 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2021-06-21 14:12:28,666 [P8532/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 7ms)
+ 2021-06-21 14:12:30,177 [P8532/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 2002ms)
+ 2021-06-21 14:12:30,267 [P8532/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2021-06-21 14:12:30,267 [P8532/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2021-06-21 14:12:30,267 [P8532/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2021-06-21 14:12:30,575 [P8532/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 14:12:30,577 [P8532/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 14:33:19,241 [P8532/D2/T54] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-21 14:33:19,243 [P8532/D2/T54] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-21 14:33:19,245 [P8532/D2/T54] INFO  Umbraco.Web.ExamineStartup - Complete (took 2ms)
+ 2021-06-21 14:33:19,246 [P8532/D2/T54] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-21 14:33:49,299 [P8532/D2/T54] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: HostingEnvironment
+
+_shutDownMessage=HostingEnvironment initiated shutdown
+HostingEnvironment originó el cierre
+
+_shutDownStack=   en System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   en System.Environment.get_StackTrace()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   en System.Web.Hosting.PipelineRuntime.StopProcessing()
+ 2021-06-21 15:33:15,600 [P16000/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on DESKTOP-57DJDUE
+ 2021-06-21 15:33:15,627 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2021-06-21 15:33:15,635 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 8ms)
+ 2021-06-21 15:33:15,687 [P16000/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2021-06-21 15:33:15,689 [P16000/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2021-06-21 15:33:15,691 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 15:33:15,763 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 71ms)
+ 2021-06-21 15:33:15,763 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2021-06-21 15:33:15,764 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 0ms)
+ 2021-06-21 15:33:15,796 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 15:33:15,797 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 15:33:15,797 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2021-06-21 15:33:15,797 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2021-06-21 15:33:15,797 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 15:33:15,797 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 15:33:15,798 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2021-06-21 15:33:15,799 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 1ms)
+ 2021-06-21 15:33:15,810 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 15:33:15,810 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 15:33:15,811 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2021-06-21 15:33:15,811 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2021-06-21 15:33:15,811 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 15:33:15,811 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 15:33:15,812 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2021-06-21 15:33:15,812 [P16000/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 0ms)
+ 2021-06-21 15:33:17,547 [P16000/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 2031ms)
+ 2021-06-21 15:33:17,617 [P16000/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2021-06-21 15:33:17,617 [P16000/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2021-06-21 15:33:17,617 [P16000/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2021-06-21 15:33:18,325 [P16000/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 15:33:18,328 [P16000/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 15:57:04,486 [P16000/D2/T33] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-21 15:57:04,501 [P16000/D2/T33] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-21 15:57:04,501 [P16000/D2/T33] INFO  Umbraco.Web.ExamineStartup - Complete (took 5ms)
+ 2021-06-21 15:57:04,501 [P16000/D2/T33] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-21 16:05:23,734 [P10208/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on DESKTOP-57DJDUE
+ 2021-06-21 16:05:23,786 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2021-06-21 16:05:23,804 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 18ms)
+ 2021-06-21 16:05:23,863 [P10208/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2021-06-21 16:05:23,865 [P10208/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2021-06-21 16:05:23,867 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 16:05:24,591 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 723ms)
+ 2021-06-21 16:05:24,591 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2021-06-21 16:05:24,593 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 1ms)
+ 2021-06-21 16:05:24,704 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 16:05:24,705 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 16:05:24,705 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2021-06-21 16:05:24,705 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2021-06-21 16:05:24,706 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 16:05:24,706 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 16:05:24,706 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2021-06-21 16:05:24,708 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 1ms)
+ 2021-06-21 16:05:24,725 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 16:05:24,725 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 16:05:24,726 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2021-06-21 16:05:24,726 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2021-06-21 16:05:24,726 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 16:05:24,727 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 16:05:24,727 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2021-06-21 16:05:24,728 [P10208/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 0ms)
+ 2021-06-21 16:05:26,875 [P10208/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 3317ms)
+ 2021-06-21 16:05:27,063 [P10208/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2021-06-21 16:05:27,064 [P10208/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2021-06-21 16:05:27,064 [P10208/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2021-06-21 16:05:29,352 [P10208/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 16:05:29,352 [P10208/D2/T11] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 16:05:29,355 [P10208/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 16:05:29,356 [P10208/D2/T10] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 16:05:29,356 [P10208/D2/T11] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 16:15:40,338 [P10208/D2/T26] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-21 16:15:40,338 [P10208/D2/T26] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-21 16:15:40,338 [P10208/D2/T26] INFO  Umbraco.Web.ExamineStartup - Complete (took 2ms)
+ 2021-06-21 16:15:40,338 [P10208/D2/T26] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-21 21:42:54,284 [P13468/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on DESKTOP-57DJDUE
+ 2021-06-21 21:42:54,356 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2021-06-21 21:42:54,389 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 37ms)
+ 2021-06-21 21:42:54,505 [P13468/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2021-06-21 21:42:54,505 [P13468/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2021-06-21 21:42:54,517 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 21:42:54,603 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 86ms)
+ 2021-06-21 21:42:54,604 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2021-06-21 21:42:54,606 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 1ms)
+ 2021-06-21 21:42:54,655 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 21:42:54,660 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2021-06-21 21:42:54,660 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2021-06-21 21:42:54,661 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2021-06-21 21:42:54,662 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 21:42:54,662 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 21:42:54,663 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2021-06-21 21:42:54,666 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 3ms)
+ 2021-06-21 21:42:54,687 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 21:42:54,687 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 21:42:54,687 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2021-06-21 21:42:54,687 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2021-06-21 21:42:54,696 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 21:42:54,696 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 21:42:54,696 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2021-06-21 21:42:54,699 [P13468/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 1ms)
+ 2021-06-21 21:42:58,112 [P13468/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 4024ms)
+ 2021-06-21 21:42:58,322 [P13468/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2021-06-21 21:42:58,323 [P13468/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2021-06-21 21:42:58,323 [P13468/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2021-06-21 21:42:58,724 [P13468/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 21:42:58,736 [P13468/D2/T7] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 22:39:29,609 [P13468/D2/T56] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-21 22:39:29,611 [P13468/D2/T56] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-21 22:39:29,618 [P13468/D2/T56] INFO  Umbraco.Web.ExamineStartup - Complete (took 6ms)
+ 2021-06-21 22:39:29,618 [P13468/D2/T56] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-21 22:39:59,636 [P13468/D2/T44] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: HostingEnvironment
+
+_shutDownMessage=HostingEnvironment initiated shutdown
+HostingEnvironment originó el cierre
+
+_shutDownStack=   en System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   en System.Environment.get_StackTrace()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   en System.Web.Hosting.PipelineRuntime.StopProcessing()
+ 2021-06-21 22:46:50,519 [P7252/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on DESKTOP-57DJDUE
+ 2021-06-21 22:46:50,538 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2021-06-21 22:46:50,545 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 6ms)
+ 2021-06-21 22:46:50,583 [P7252/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2021-06-21 22:46:50,585 [P7252/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2021-06-21 22:46:50,586 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 22:46:50,622 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 34ms)
+ 2021-06-21 22:46:50,622 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2021-06-21 22:46:50,623 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 0ms)
+ 2021-06-21 22:46:50,642 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 22:46:50,643 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 22:46:50,643 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2021-06-21 22:46:50,643 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2021-06-21 22:46:50,643 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 22:46:50,643 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 22:46:50,643 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2021-06-21 22:46:50,644 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 1ms)
+ 2021-06-21 22:46:50,654 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 22:46:50,654 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 22:46:50,654 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2021-06-21 22:46:50,654 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2021-06-21 22:46:50,655 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 22:46:50,655 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 22:46:50,655 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2021-06-21 22:46:50,655 [P7252/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 0ms)
+ 2021-06-21 22:46:51,833 [P7252/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1380ms)
+ 2021-06-21 22:46:51,891 [P7252/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2021-06-21 22:46:51,891 [P7252/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2021-06-21 22:46:51,892 [P7252/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2021-06-21 22:46:52,203 [P7252/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 22:46:52,205 [P7252/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 22:46:52,734 [P7252/D2/T8] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:cb7dac5d-b823-4594-9e4e-934428c3a241
+Error Number:18456,State:1,Class:14
+ 2021-06-21 22:47:57,120 [P7252/D2/T8] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:ad5ca874-49b4-4179-be1c-ebb66f8539f4
+Error Number:18456,State:1,Class:14
+ 2021-06-21 22:48:01,748 [P7252/D2/T14] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:ad5ca874-49b4-4179-be1c-ebb66f8539f4
+Error Number:18456,State:1,Class:14
+ 2021-06-21 22:48:01,963 [P7252/D2/T12] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:ad5ca874-49b4-4179-be1c-ebb66f8539f4
+Error Number:18456,State:1,Class:14
+ 2021-06-21 22:48:02,701 [P7252/D2/T15] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa'.
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:ad5ca874-49b4-4179-be1c-ebb66f8539f4
+Error Number:18456,State:1,Class:14
+ 2021-06-21 22:51:47,539 [P7252/D2/T5] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "UmbracoLearningDB" requested by the login. The login failed.
+Login failed for user 'IIS APPPOOL\umbraco.test'.
+   en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:871400b9-3b8b-449e-a272-ac65471d756c
+Error Number:4060,State:1,Class:11
+ 2021-06-21 22:58:51,339 [P7252/D2/T16] WARN  Umbraco.Core.Persistence.DbConnectionExtensions - Configured database is reporting as not being available! DataSource: DESKTOP-57DJDUE\SQLEXPRESS, InitialCatalog: UmbracoLearningDB. Exception: System.Data.SqlClient.SqlException (0x80131904): Cannot open database "UmbracoLearningDB" requested by the login. The login failed.
+Login failed for user 'IIS APPPOOL\umbraco.test'.
+   en System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   en System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   en System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   en System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   en System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   en System.Data.SqlClient.SqlConnection.Open()
+   en Umbraco.Core.Persistence.DbConnectionExtensions.IsAvailable(IDbConnection connection)
+ClientConnectionId:2e8f4c7e-ef11-464c-9cd2-e62bc7e74cf9
+Error Number:4060,State:1,Class:11
+ 2021-06-21 23:19:51,179 [P7252/D2/T12] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-21 23:19:51,179 [P7252/D2/T12] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-21 23:19:51,179 [P7252/D2/T12] INFO  Umbraco.Web.ExamineStartup - Complete (took 6ms)
+ 2021-06-21 23:19:51,179 [P7252/D2/T12] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-21 23:20:21,233 [P7252/D2/T12] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: HostingEnvironment
+
+_shutDownMessage=HostingEnvironment initiated shutdown
+HostingEnvironment originó el cierre
+
+_shutDownStack=   en System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   en System.Environment.get_StackTrace()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   en System.Web.Hosting.PipelineRuntime.StopProcessing()
+ 2021-06-21 23:33:00,357 [P12144/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.8 application starting on DESKTOP-57DJDUE
+ 2021-06-21 23:33:00,367 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2021-06-21 23:33:00,374 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Hash determined (took 7ms)
+ 2021-06-21 23:33:00,401 [P12144/D2/T1] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2021-06-21 23:33:00,401 [P12144/D2/T1] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2021-06-21 23:33:00,403 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 23:33:00,439 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 36ms)
+ 2021-06-21 23:33:00,440 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2021-06-21 23:33:00,440 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 0ms)
+ 2021-06-21 23:33:00,460 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 23:33:00,461 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 23:33:00,461 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2021-06-21 23:33:00,461 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2021-06-21 23:33:00,462 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 23:33:00,462 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 23:33:00,462 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2021-06-21 23:33:00,464 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 1ms)
+ 2021-06-21 23:33:00,469 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 23:33:00,469 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 23:33:00,470 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2021-06-21 23:33:00,470 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2021-06-21 23:33:00,470 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2021-06-21 23:33:00,470 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2021-06-21 23:33:00,471 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2021-06-21 23:33:00,471 [P12144/D2/T1] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 0ms)
+ 2021-06-21 23:33:01,484 [P12144/D2/T1] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 1181ms)
+ 2021-06-21 23:33:01,528 [P12144/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalMemberIndexer, NodeId=-1
+ 2021-06-21 23:33:01,529 [P12144/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=InternalIndexer, NodeId=-1
+ 2021-06-21 23:33:01,529 [P12144/D2/T1] INFO  UmbracoExamine.DataServices.UmbracoLogService - Rebuilding index, Provider=ExternalIndexer, NodeId=-1
+ 2021-06-21 23:33:01,836 [P12144/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - New ApplicationUrl detected: http://umbraco.test:80/umbraco
+ 2021-06-21 23:33:01,837 [P12144/D2/T8] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbraco.test:80/umbraco (UmbracoModule request)
+ 2021-06-21 23:34:18,035 [P12144/D2/T14] ERROR Umbraco.Web.Install.InstallHelper - Could not download list of available starter kits
+System.AggregateException: Se han producido uno o varios errores. ---> System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: Anulada la solicitud: No se puede crear un canal seguro SSL/TLS.
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en Umbraco.Web.Install.InstallHelper.GetStarterKits()
+---> (Nº de excepción interna 0) System.Net.Http.HttpRequestException: Error al enviar la solicitud. ---> System.Net.WebException: Anulada la solicitud: No se puede crear un canal seguro SSL/TLS.
+   en System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   en System.Net.Http.HttpClientHandler.GetResponseCallback(IAsyncResult ar)
+   --- Fin del seguimiento de la pila de la excepción interna ---<---
+
+ 2021-06-21 23:55:01,036 [P12144/D2/T16] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-21 23:55:01,037 [P12144/D2/T16] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-21 23:55:01,038 [P12144/D2/T16] INFO  Umbraco.Web.ExamineStartup - Complete (took 1ms)
+ 2021-06-21 23:55:01,039 [P12144/D2/T16] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-21 23:55:31,067 [P12144/D2/T16] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: HostingEnvironment
+
+_shutDownMessage=HostingEnvironment initiated shutdown
+HostingEnvironment originó el cierre
+
+_shutDownStack=   en System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   en System.Environment.get_StackTrace()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   en System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   en System.Web.Hosting.PipelineRuntime.StopProcessing()

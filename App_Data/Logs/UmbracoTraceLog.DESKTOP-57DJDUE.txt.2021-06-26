@@ -1,0 +1,27 @@
+﻿ 2021-06-26 14:10:27,773 [P19492/D2/T131] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username juan.lopez.newshore@gmail.com from IP address 127.0.0.1
+ 2021-06-26 14:10:27,773 [P19492/D2/T131] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: juan.lopez.newshore@gmail.com logged in from IP address 127.0.0.1
+ 2021-06-26 14:30:12,898 [P19492/D2/T121] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: juan.lopez.newshore@gmail.com, IP Address: 127.0.0.1
+ 2021-06-26 14:31:12,947 [P19492/D2/T159] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2021-06-26 16:54:32,780 [P19492/D2/T183] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2021-06-25 16:54:32
+ 2021-06-26 17:36:53,126 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Terminating
+ 2021-06-26 17:36:53,126 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Waiting for tasks to complete
+ 2021-06-26 17:36:53,126 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Tasks completed, terminated
+ 2021-06-26 17:36:53,126 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Terminating
+ 2021-06-26 17:36:53,126 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Waiting for tasks to complete
+ 2021-06-26 17:36:53,142 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Terminating
+ 2021-06-26 17:36:53,142 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Waiting for tasks to complete
+ 2021-06-26 17:36:53,142 [P19492/D2/T135] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Tasks completed, terminated
+ 2021-06-26 17:36:53,142 [P19492/D2/T185] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Tasks completed, terminated
+ 2021-06-26 17:36:53,158 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Terminating
+ 2021-06-26 17:36:53,158 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Waiting for tasks to complete
+ 2021-06-26 17:36:53,158 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Terminating
+ 2021-06-26 17:36:53,158 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Waiting for tasks to complete
+ 2021-06-26 17:36:53,158 [P19492/D2/T169] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Tasks completed, terminated
+ 2021-06-26 17:36:53,158 [P19492/D2/T138] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Tasks completed, terminated
+ 2021-06-26 17:36:53,158 [P19492/D2/T130] INFO  Umbraco.Core.MainDom - Stopping...
+ 2021-06-26 17:36:53,158 [P19492/D2/T130] INFO  Umbraco.Web.ExamineStartup - Examine shutting down
+ 2021-06-26 17:36:53,173 [P19492/D2/T130] INFO  Umbraco.Web.ExamineStartup - Complete (took 2ms)
+ 2021-06-26 17:36:53,173 [P19492/D2/T130] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2021-06-26 17:36:53,173 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Terminating
+ 2021-06-26 17:36:53,173 [P19492/D2/T130] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Waiting for tasks to complete
+ 2021-06-26 17:36:53,173 [P19492/D2/T135] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Tasks completed, terminated
